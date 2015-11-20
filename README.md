@@ -18,7 +18,7 @@ And…
 > one keypress). It wouldn't be hard, but it also wouldn't be very
 > satisfying. But it would be useful.
 
-So here I amâ€¦ the masochist that wrote this. Just not as static html generator
+So here I am, the masochist that wrote this. Just not as static html generator
 but in-browser Javascript application.
 
 To use, just put the slides into a single element with id="slides" and load 
